@@ -1,10 +1,4 @@
-# WiFi station example
-
-(See the README.md file in the upper level 'examples' directory for more information about examples.)
-
-
-## How to use example
-
+# IMC Proftaak
 ### Configure the project
 
 ```
@@ -12,6 +6,8 @@ idf.py menuconfig
 ```
 
 * Set WiFi SSID and WiFi Password and Maximum retry under Example Configuration Options.
+* Set the Rotary Encoder Address.
+* Set the LCD Address.
 
 ### Build and Flash
 
